@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+
+1. Create `.env` file in project root, use `.env.example` for reference
+2. Install modules by running `npm i`
+
 ## Available Scripts
 
 In the project directory, you can run:
